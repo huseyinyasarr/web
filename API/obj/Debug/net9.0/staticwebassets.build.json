@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "Hash": "ZJEnHSX/TrdmeQYPRVc1WPtJgVCLlwoJOeIbhqMJjiA=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\1.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wi1af41v7h",
+      "Integrity": "yAqKJKgabZn1yM3J67sQx0MVeqZm/S7ysvZ/ySrPUp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\2.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3xkf06z2ax",
+      "Integrity": "p5/Ua2rZkGwiVtracxNthjJqTugIA2U85IiR5PCc3xQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\3.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5pfjxlkmpq",
+      "Integrity": "OctiU/HsIplwSBYDqUGPAJRryiujbaxmXj+dcDmUWmQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\4.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lxk4tb91kg",
+      "Integrity": "+VvpIPnQ0CoRQi4XXw2f7Soxgn4CAGT5M/IVI8poGmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\5.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hnmn6qpj9",
+      "Integrity": "qbA/ICljwNDyOGWPkmLdCol4G6+tFOXw2ViuiRVLxjA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\6.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6t92ry7oqv",
+      "Integrity": "KtGEm98SzLwXSbw0FusZOMbrSAgYQ9Ri7AfIs79/Rwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\7.jpg",
+      "SourceId": "API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\",
+      "BasePath": "_content/API",
+      "RelativePath": "images/7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "72qbe3kz3h",
+      "Integrity": "Ue1JnBUrFtSyB5Jx6vp5bBMDRXiY22Ay36NaTABqYY8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\7.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/1.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "505711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAqKJKgabZn1yM3J67sQx0MVeqZm/S7ysvZ/ySrPUp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAqKJKgabZn1yM3J67sQx0MVeqZm/S7ysvZ/ySrPUp4="
+        }
+      ]
+    },
+    {
+      "Route": "images/1.wi1af41v7h.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "505711"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yAqKJKgabZn1yM3J67sQx0MVeqZm/S7ysvZ/ySrPUp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wi1af41v7h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yAqKJKgabZn1yM3J67sQx0MVeqZm/S7ysvZ/ySrPUp4="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.3xkf06z2ax.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p5/Ua2rZkGwiVtracxNthjJqTugIA2U85IiR5PCc3xQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3xkf06z2ax"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p5/Ua2rZkGwiVtracxNthjJqTugIA2U85IiR5PCc3xQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/2.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "537076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p5/Ua2rZkGwiVtracxNthjJqTugIA2U85IiR5PCc3xQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p5/Ua2rZkGwiVtracxNthjJqTugIA2U85IiR5PCc3xQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.5pfjxlkmpq.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "397643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OctiU/HsIplwSBYDqUGPAJRryiujbaxmXj+dcDmUWmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pfjxlkmpq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OctiU/HsIplwSBYDqUGPAJRryiujbaxmXj+dcDmUWmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/3.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "397643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OctiU/HsIplwSBYDqUGPAJRryiujbaxmXj+dcDmUWmQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OctiU/HsIplwSBYDqUGPAJRryiujbaxmXj+dcDmUWmQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+VvpIPnQ0CoRQi4XXw2f7Soxgn4CAGT5M/IVI8poGmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+VvpIPnQ0CoRQi4XXw2f7Soxgn4CAGT5M/IVI8poGmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/4.lxk4tb91kg.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "363742"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+VvpIPnQ0CoRQi4XXw2f7Soxgn4CAGT5M/IVI8poGmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxk4tb91kg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+VvpIPnQ0CoRQi4XXw2f7Soxgn4CAGT5M/IVI8poGmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.3hnmn6qpj9.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "595977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbA/ICljwNDyOGWPkmLdCol4G6+tFOXw2ViuiRVLxjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hnmn6qpj9"
+        },
+        {
+          "Name": "label",
+          "Value": "images/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbA/ICljwNDyOGWPkmLdCol4G6+tFOXw2ViuiRVLxjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/5.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "595977"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qbA/ICljwNDyOGWPkmLdCol4G6+tFOXw2ViuiRVLxjA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qbA/ICljwNDyOGWPkmLdCol4G6+tFOXw2ViuiRVLxjA="
+        }
+      ]
+    },
+    {
+      "Route": "images/6.6t92ry7oqv.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KtGEm98SzLwXSbw0FusZOMbrSAgYQ9Ri7AfIs79/Rwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6t92ry7oqv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KtGEm98SzLwXSbw0FusZOMbrSAgYQ9Ri7AfIs79/Rwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/6.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "440028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KtGEm98SzLwXSbw0FusZOMbrSAgYQ9Ri7AfIs79/Rwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:37:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KtGEm98SzLwXSbw0FusZOMbrSAgYQ9Ri7AfIs79/Rwg="
+        }
+      ]
+    },
+    {
+      "Route": "images/7.72qbe3kz3h.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ue1JnBUrFtSyB5Jx6vp5bBMDRXiY22Ay36NaTABqYY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:40:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72qbe3kz3h"
+        },
+        {
+          "Name": "label",
+          "Value": "images/7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ue1JnBUrFtSyB5Jx6vp5bBMDRXiY22Ay36NaTABqYY8="
+        }
+      ]
+    },
+    {
+      "Route": "images/7.jpg",
+      "AssetFile": "C:\\Users\\yakay\\OneDrive\\Masaüstü\\denemedeneme\\API\\wwwroot\\images\\7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "474274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ue1JnBUrFtSyB5Jx6vp5bBMDRXiY22Ay36NaTABqYY8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 09:40:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ue1JnBUrFtSyB5Jx6vp5bBMDRXiY22Ay36NaTABqYY8="
+        }
+      ]
+    }
+  ]
+}
